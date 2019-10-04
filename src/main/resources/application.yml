@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: partner-factory
+  flyway:
+    enabled: false
+    baseline-on-migrate: false
+
